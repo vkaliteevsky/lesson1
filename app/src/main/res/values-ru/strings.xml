@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Визитная карточка</string>
+
+    <string name="first_name">Василий</string>
+    <string name="second_name">Калитеевский</string>
+    <string name="action_settings">Настройки</string>
+    <string name="load_image">Загрузить изображение</string>
+</resources>
